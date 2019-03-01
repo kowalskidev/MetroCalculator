@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metro Calculator", "Metro Calculator\Metro Calculator.csproj", "{16A40829-C62F-4331-B988-7BC5429C90EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MetroCalculatorSetup", "MetroCalculatorSetup\MetroCalculatorSetup.vdproj", "{16E5BA52-FB9D-488A-A94C-7D79700C1517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A40829-C62F-4331-B988-7BC5429C90EB}.Debug|x86.ActiveCfg = Debug|x86
+		{16A40829-C62F-4331-B988-7BC5429C90EB}.Debug|x86.Build.0 = Debug|x86
+		{16A40829-C62F-4331-B988-7BC5429C90EB}.Release|x86.ActiveCfg = Release|x86
+		{16A40829-C62F-4331-B988-7BC5429C90EB}.Release|x86.Build.0 = Release|x86
+		{16E5BA52-FB9D-488A-A94C-7D79700C1517}.Debug|x86.ActiveCfg = Debug
+		{16E5BA52-FB9D-488A-A94C-7D79700C1517}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
