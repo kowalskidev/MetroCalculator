@@ -1,0 +1,29 @@
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.exe.config
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.exe
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.pdb
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\bin\Release\MetroFramework.Design.dll
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\bin\Release\MetroFramework.dll
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\bin\Release\MetroFramework.Fonts.dll
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro_Calculator.About.resources
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro_Calculator.Metro_Calculator.resources
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro_Calculator.Properties.Resources.resources
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.csproj.GenerateResource.Cache
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.exe
+c:\users\kesarani\documents\visual studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.pdb
+C:\Users\KESARANI\Documents\Visual Studio 2010\Projects\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.csprojResolveAssemblyReference.cache
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.csprojAssemblyReference.cache
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro_Calculator.About.resources
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro_Calculator.Metro_Calculator.resources
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.csproj.GenerateResource.cache
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.exe
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro_Calculator.Properties.Resources.resources
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.csproj.CoreCompileInputs.cache
+R:\C Development\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.exe.config
+R:\C Development\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.exe
+R:\C Development\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.pdb
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.csproj.CopyComplete
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.pdb
+R:\C Development\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.exe.manifest
+R:\C Development\Metro Calculator\Metro Calculator\bin\Release\Metro Calculator.application
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.exe.manifest
+R:\C Development\Metro Calculator\Metro Calculator\obj\x86\Release\Metro Calculator.application
